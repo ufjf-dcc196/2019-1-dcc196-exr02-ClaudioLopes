@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio2</string>
+    <string name="Botao_soma">Soma</string>
+    <string name="botao_subtracao">Subtração</string>
+    <string name="botao_multiplicacao">Multiplicação</string>
+    <string name="botao_divisao">Divisão</string>
+</resources>
